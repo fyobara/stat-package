@@ -1,4 +1,4 @@
-# sta_package
+# stat_package
 
 Description. 
 O pacote disponibiliza funções para cálculo de medidas de tendência central
