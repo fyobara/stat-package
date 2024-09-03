@@ -1,0 +1,10 @@
+README.md
+setup.py
+sta/__init__.py
+sta/mean.py
+sta/median.py
+sta/mode.py
+sta_package.egg-info/PKG-INFO
+sta_package.egg-info/SOURCES.txt
+sta_package.egg-info/dependency_links.txt
+sta_package.egg-info/top_level.txt

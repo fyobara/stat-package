@@ -12,7 +12,7 @@ setup(
     version="0.0.1",
     author="fyobara",
     author_email="fernando.y.obara@gmail.com",
-    description="My short description", long_description=page_description,
+    description="O pacote disponibiliza funções para cálculo de medidas de tendência central", long_description=page_description,
     long_description_content_type="text/markdown", url="my_github_repository_project_link",
     packages=find_packages(),
     install_requires=requirements,
