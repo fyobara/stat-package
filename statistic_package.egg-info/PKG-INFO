@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: statistic_package
+Version: 0.0.1
+Summary: O pacote disponibiliza funções para cálculo de medidas de tendência central
+Home-page: my_github_repository_project_link
+Author: fyobara
+Author-email: fernando.y.obara@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# sta_package
+
+Description. 
+O pacote disponibiliza funÃ§Ãµes para cÃ¡lculo de medidas de tendÃªncia central
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install sta
+```
+
+## Usage
+
+```python
+from sta.mean import mean
+from sta.median import median
+from sta.mode import mode
+
+#As funÃ§Ãµes recebem como entrada uma lista e retornam as medidas
+
+mean()
+median()
+mode()
+
+```
+
+## Author
+Fernando
+
